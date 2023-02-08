@@ -1,5 +1,5 @@
 locals {
-  token      = "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"
+  token      = "[ACCESS TOKEN HERE]"
   visibility = "public"
 }
 
