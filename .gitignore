@@ -1,0 +1,11 @@
+# These files are removed because they contain sensitive information.
+*default*
+*variable*
+
+# These folders are removed as they do not need to be uploaded.
+.terraform
+
+# These files are removed as they do not need to be uploaded.
+*.tfstate
+*.tfstate.*
+*.lock.*
